@@ -54,6 +54,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-=======
-theme: jekyll-theme-tactile
->>>>>>> 9afe88de40880ef718cb492ad36d3bde6176c82d
+#=======
+#theme: jekyll-theme-tactile
+#>>>>>>> 9afe88de40880ef718cb492ad36d3bde6176c82d
